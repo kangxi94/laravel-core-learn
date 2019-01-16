@@ -30,7 +30,7 @@ laravel上手难这个是肯定的，laravel采用了php比较新的特性，闭
 
 ### 文章内容
 
-- [依赖注入,控制翻转,反射,闭包各个概念的理解和使用](https://github.com/cxp1539/laravel-core-learn/issues/1)
+- [依赖注入,控制翻转,反射各个概念的理解和使用](https://github.com/cxp1539/laravel-core-learn/issues/1)
 - [如何实现Ioc容器和服务提供者](https://github.com/cxp1539/laravel-core-learn/issues/2)
 - [Facades外观模式背后实现原理](https://github.com/cxp1539/laravel-core-learn/issues/3)
 - [Contracts契约之面向接口编程](https://github.com/cxp1539/laravel-core-learn/issues/4)
