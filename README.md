@@ -7,8 +7,7 @@
 + laravel的介绍就是为 WEB 艺术家创造的 PHP 框架。
 + 社区非常完善，帖子质量都相对都比较高。
 + 基于composer构建，丰富的扩展包。
-+ 开源。
-
++ github star在php排名第一
 
 #### 缺点
 + laravel性能不怎么样?比其他框架运行起来差几倍?
@@ -31,7 +30,7 @@ laravel上手难这个是肯定的，laravel采用了php比较新的特性，闭
 ### 文章内容
 
 - [依赖注入,控制翻转,反射各个概念的理解和使用](https://github.com/cxp1539/laravel-core-learn/issues/1)
-- [如何实现Ioc容器和服务提供者](https://github.com/cxp1539/laravel-core-learn/issues/2)
+- [如何实现Ioc容器和服务提供者是什么概念](https://github.com/cxp1539/laravel-core-learn/issues/2)
 - [Facades外观模式背后实现原理](https://github.com/cxp1539/laravel-core-learn/issues/3)
 - [Contracts契约之面向接口编程](https://github.com/cxp1539/laravel-core-learn/issues/4)
 - [Laravel生命周期](https://github.com/cxp1539/laravel-core-learn/issues/5)
