@@ -51,4 +51,4 @@ laravel上手难这个是肯定的，laravel采用了php比较新的特性，闭
 
 大家都能坚持学习下去，有疑问的可以到github提issue，共同探讨学习。如果该项目对于您有所帮助，希望您可以点到github star 或者打赏支持支持一下 ^_^ 
 
-<img src="https://github.com/cxp1539/laravel-core-learn/blob/master/1951547625633_.pic.jpg" width="150" height="230" />
+<img src="https://github.com/cxp1539/laravel-core-learn/blob/master/1547626033889.jpg" width="150" height="150" />
