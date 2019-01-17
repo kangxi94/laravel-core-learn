@@ -41,7 +41,7 @@ laravel上手难这个是肯定的，laravel采用了php比较新的特性，闭
 - [如果开发Laravel扩展包和发布到composer](https://github.com/cxp1539/laravel-core-learn/issues/10)
 - [Laravel与前端最佳实践](https://github.com/cxp1539/laravel-core-learn/issues/11)
 - [基于JWT的api认证](https://github.com/cxp1539/laravel-core-learn/issues/12)
-- [架构相关,(负载均衡,分布式,集群的理解,及多台服务器代码如果同步等等...)](https://github.com/cxp1539/laravel-core-learn/issues/13)
+- [架构，优化相关,(负载均衡,分布式,集群的理解,及多台服务器代码如果同步等等...)](https://github.com/cxp1539/laravel-core-learn/issues/13)
 - [基于教程实现的一个简单网站实例](https://github.com/cxp1539/laravel-core-learn/issues/14)
 
 ### 说明
