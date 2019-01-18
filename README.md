@@ -4,7 +4,7 @@
 
 #### 优点
 
-+ laravel的介绍就是为 WEB 艺术家创造的 PHP 框架。
++ laravel的就是为 WEB 艺术家创造的 PHP 框架，它也是php工程化的趋势。
 + 社区非常完善，帖子质量都相对都比较高。
 + 基于composer构建，丰富的扩展包。
 + github star在php排名第一
