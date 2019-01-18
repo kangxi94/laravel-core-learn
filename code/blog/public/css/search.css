@@ -1,0 +1,72 @@
+.main {
+  padding-top: 24px;
+  max-width: 990px;
+}
+
+.main .centerlist {
+  position: relative;
+  width: 656px;
+}
+
+.main .right_personalization {
+  width: 280px;
+}
+
+.main .right_personalization .rank-wrap {
+  width: 100%;
+  margin-top: 6px;
+}
+
+.main .right_personalization .rank-wrap .title {
+  font-size: 17px;
+  line-height: 24px;
+  margin-bottom: 16px;
+  color: #1c1f21;
+  position: relative;
+}
+
+.main .right_personalization .rank-wrap .rank-list {
+  margin-top: 6px;
+}
+
+.main .right_personalization .rank-wrap .rank-list .rank {
+  margin-bottom: 12px;
+  position: relative;
+  font-size: 14px;
+  padding-bottom: 6px;
+  border-bottom: 1px dotted #ccc;
+}
+
+.main .right_personalization .rank-wrap .rank-list .rank:last-child {
+  border-bottom: 0px;
+}
+
+.main .right_personalization .rank-wrap .rank-list .rank i {
+  width: 18px;
+  height: 18px;
+  line-height: 18px;
+  text-align: center;
+  float: left;
+  background: #ccc;
+  display: inline-block;
+  border-radius: 4px;
+  color: #fff;
+  font-size: 12px;
+  margin-right: 6px;
+  position: relative;
+  top: 2px;
+}
+
+.main .right_personalization .rank-wrap .rank-list .rank i.prev {
+  background: #fe8625;
+}
+
+.main .right_personalization .rank-wrap .rank-list .rank span {
+  float: left;
+}
+
+.main .right_personalization .rank-wrap .rank-list .rank em {
+  float: right;
+  font-size: 12px;
+}
+

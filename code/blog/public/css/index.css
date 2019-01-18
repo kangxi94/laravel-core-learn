@@ -1,0 +1,133 @@
+.main {
+  padding-top: 24px;
+}
+
+.main .left_menu {
+  width: 104px;
+  margin-right: 24px;
+  text-align: center;
+  background: #fff;
+  border-radius: 12px;
+  -webkit-box-shadow: 0 4px 8px 0 rgba(28, 31, 33, 0.1);
+          box-shadow: 0 4px 8px 0 rgba(28, 31, 33, 0.1);
+  overflow: hidden;
+}
+
+.main .left_menu .m_item {
+  width: 88px;
+  line-height: 20px;
+  border-radius: 6px;
+  margin: 0 auto;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  padding: 8px 0;
+  font-size: 14px;
+  margin-bottom: 8px;
+}
+
+.main .left_menu .m_item:hover {
+  background: rgba(51, 119, 255, 0.1);
+  font-weight: 700;
+}
+
+.main .left_menu .m_item.active {
+  background: rgba(51, 119, 255, 0.1);
+  font-weight: 700;
+}
+
+.main .left_menu .m_item.active a {
+  color: #37f;
+}
+
+.main .left_menu .m_item:first-child {
+  margin-top: 8px;
+}
+
+.main .left_menu .m_item a {
+  display: inline-block;
+  width: 74px;
+  line-height: 20px;
+  color: #1c1f21;
+}
+
+.main .centerlist {
+  position: relative;
+  width: 656px;
+}
+
+.main .right_personalization {
+  width: 280px;
+}
+
+.main .right_personalization .user-wrap {
+  width: 100%;
+  margin-top: 24px;
+}
+
+.main .right_personalization .user-wrap .title {
+  font-size: 17px;
+  line-height: 24px;
+  color: #1c1f21;
+  position: relative;
+}
+
+.main .right_personalization .user-wrap .user-list {
+  margin-top: 12px;
+}
+
+.main .right_personalization .user-wrap .user-list .user {
+  width: 100%;
+  margin-bottom: 10px;
+  border-bottom: 1px dotted #ccc;
+  overflow: hidden;
+  padding-bottom: 8px;
+}
+
+.main .right_personalization .user-wrap .user-list .user:last-child {
+  border-bottom: 0px;
+}
+
+.main .right_personalization .user-wrap .user-list .user .info {
+  margin: 2px;
+  font-size: 14px;
+  color: #666;
+  line-height: 20px;
+}
+
+.main .right_personalization .user-wrap .user-list .user .info .avatar {
+  float: left;
+  margin-right: 6px;
+}
+
+.main .right_personalization .user-wrap .user-list .user .info .avatar img {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+}
+
+.main .right_personalization .user-wrap .user-list .user .info .nickname {
+  color: #000;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.main .right_personalization .user-wrap .user-list .user .info .title {
+  color: #000;
+  font-size: 14px;
+}
+
+.main .right_personalization .user-wrap .user-list .user .content {
+  color: #666;
+  margin-top: 10px;
+  font-size: 14px;
+  margin-left: 46px;
+}
+
+.main .right_personalization .user-wrap .user-list .user .time {
+  margin-top: 2px;
+  float: right;
+  margin-right: 6px;
+  font-size: 12px;
+  color: #666;
+}
+
