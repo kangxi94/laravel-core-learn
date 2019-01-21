@@ -32,7 +32,7 @@ laravel上手难这个是肯定的，laravel采用了php比较新的特性，闭
 - [中间件,管道之面向切面编程]
 - [Laravel生命周期]
 - [Laravel事件之观察者模式]
-- [Laravel Auth如何使用php新特性trait]
+- [新特性trait在Laravel中的应用]
 - [为什么laravel没有规划models目录?]
 - [Eloquent ORM中的方法,关联模型的实现流程]
 - [如果开发Laravel扩展包和发布到composer]
