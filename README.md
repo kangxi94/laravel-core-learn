@@ -5,7 +5,7 @@
 + laravel的就是为 WEB 艺术家创造的 PHP 框架，它也是php工程化的趋势。
 + 社区非常完善，帖子质量都相对都比较高。
 + 基于composer构建，丰富的扩展包。
-+ github star在php排名第一
++ github star在php分类排名第一
 
 ### 缺点
 + laravel性能不怎么样?比其他框架运行起来差几倍?
