@@ -34,7 +34,7 @@ laravel上手难这个是肯定的，laravel采用了php比较新的特性，闭
 - [Laravel事件之观察者模式]
 - [新特性trait在Laravel中的应用]
 - [为什么laravel没有规划models目录?]
-- [Eloquent ORM中的方法,关联模型的实现流程]
+- [Eloquent ORM中的方法find方法的实现流程]
 - [如果开发Laravel扩展包和发布到composer]
 - [Laravel与前端最佳实践]
 - [基于JWT的api认证]
