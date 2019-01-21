@@ -27,26 +27,27 @@ laravel上手难这个是肯定的，laravel采用了php比较新的特性，闭
 
 具体该教程涉及的知识，可以看下面的文章内容，每个章节都会有相对应的例子，由浅入深分析功能是怎么实现的。当然在看文章的前提你需要去懂php基础知识，面向对象和laravel的基本使用。如果有遇到问题可以直接在教程下面留言。
 
-### 文章内容
+### 文章内容规划
 
-- [依赖注入,控制翻转,反射各个概念的理解和使用](https://github.com/cxp1539/laravel-core-learn/issues/1)
-- [如何实现Ioc容器和服务提供者是什么概念](https://github.com/cxp1539/laravel-core-learn/issues/2)
-- [Facades外观模式背后实现原理](https://github.com/cxp1539/laravel-core-learn/issues/3)
-- [Contracts契约之面向接口编程](https://github.com/cxp1539/laravel-core-learn/issues/4)
-- [中间件,管道之面向切面编程](https://github.com/cxp1539/laravel-core-learn/issues/7)
-- [Laravel生命周期](https://github.com/cxp1539/laravel-core-learn/issues/5)
-- [Laravel事件之观察者模式](https://github.com/cxp1539/laravel-core-learn/issues/6)
-- [Laravel Auth如何使用php新特性trait](https://github.com/cxp1539/laravel-core-learn/issues/8)
-- [Eloquent ORM中的方法,关联模型的实现流程](https://github.com/cxp1539/laravel-core-learn/issues/9)
-- [如果开发Laravel扩展包和发布到composer](https://github.com/cxp1539/laravel-core-learn/issues/10)
-- [Laravel与前端最佳实践](https://github.com/cxp1539/laravel-core-learn/issues/11)
-- [基于JWT的api认证](https://github.com/cxp1539/laravel-core-learn/issues/12)
-- [架构，优化相关,(负载均衡,分布式,集群的理解,及多台服务器代码如果同步等等...)](https://github.com/cxp1539/laravel-core-learn/issues/13)
-- [基于教程实现的一个简单网站实例](https://github.com/cxp1539/laravel-core-learn/issues/14)
+- [依赖注入,控制翻转,反射各个概念的理解和使用]
+- [如何实现Ioc容器和服务提供者是什么概念]
+- [Facades外观模式背后实现原理]
+- [Contracts契约之面向接口编程]
+- [中间件,管道之面向切面编程]
+- [Laravel生命周期]
+- [Laravel事件之观察者模式]
+- [Laravel Auth如何使用php新特性trait]
+- [为什么laravel没有规划models目录?]
+- [Eloquent ORM中的方法,关联模型的实现流程]
+- [如果开发Laravel扩展包和发布到composer]
+- [Laravel与前端最佳实践]
+- [基于JWT的api认证]
+- [架构，优化相关,(负载均衡,分布式,集群的理解,及多台服务器代码如果同步等等...)]
+- [基于教程实现的一个简单网站实例]
 
 ### 说明
 
-项目仅作为学习使用，代码在每个章节都会有相应的链接。会放到github上面，大家可以clone github下载源代码。
+项目仅作为学习使用，代码在每个章节代码都会有相应的链接。会放到github上面，大家可以clone github下载源代码。
 
 大家都能坚持学习下去，有疑问的可以到github提issue，共同探讨学习。如果该项目对于您有所帮助，希望您可以点到github star 或者打赏支持支持一下 ^_^ 
 
