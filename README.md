@@ -25,21 +25,21 @@ laravel上手难这个是肯定的，laravel采用了php比较新的特性，闭
 
 ## 文章内容规划
 
-- [依赖注入,控制翻转,反射各个概念的理解和使用]
-- [如何实现Ioc容器和服务提供者是什么概念]
-- [Facades外观模式背后实现原理]
-- [Contracts契约之面向接口编程]
-- [中间件,管道之面向切面编程]
-- [Laravel生命周期]
-- [Laravel事件之观察者模式]
-- [新特性trait在Laravel中的应用]
-- [为什么laravel没有规划models目录?]
-- [Eloquent ORM中的方法find方法的实现流程]
-- [如果开发Laravel扩展包和发布到composer]
-- [Laravel与前端最佳实践]
-- [基于JWT的api认证]
-- [负载均衡,分布式,集群的理解,多台服务器代码如何同步]
-- [基于教程实现的一个简单网站实例]
+- [依赖注入,控制翻转,反射各个概念的理解和使用](https://github.com/cxp1539/laravel-core-learn/issues/1)
+- [如何实现Ioc容器和服务提供者是什么概念](https://github.com/cxp1539/laravel-core-learn/issues/2)
+- [Facades外观模式背后实现原理](https://github.com/cxp1539/laravel-core-learn/issues/3)
+- [Contracts契约之面向接口编程](https://github.com/cxp1539/laravel-core-learn/issues/4)
+- [中间件,管道之面向切面编程](https://github.com/cxp1539/laravel-core-learn/issues/7)
+- [Laravel生命周期](https://github.com/cxp1539/laravel-core-learn/issues/5)
+- [Laravel事件之观察者模式](https://github.com/cxp1539/laravel-core-learn/issues/6)
+- [新特性trait在Laravel中的应用](https://github.com/cxp1539/laravel-core-learn/issues/8)
+- [为什么laravel没有规划models目录?](https://github.com/cxp1539/laravel-core-learn/issues/15)
+- [Eloquent ORM中的方法find方法的实现流程](https://github.com/cxp1539/laravel-core-learn/issues/9)
+- [如果开发Laravel扩展包和发布到composer](https://github.com/cxp1539/laravel-core-learn/issues/10)
+- [Laravel与前端最佳实践](https://github.com/cxp1539/laravel-core-learn/issues/11)
+- [基于JWT的api认证](https://github.com/cxp1539/laravel-core-learn/issues/12)
+- [负载均衡,分布式,集群的理解,多台服务器代码如何同步](https://github.com/cxp1539/laravel-core-learn/issues/13)
+- [基于教程实现的一个简单网站实例](https://github.com/cxp1539/laravel-core-learn/issues/14)
 
 ## 说明
 
